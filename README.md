@@ -2,6 +2,9 @@
 
 This is a React-based web application built as part of a final project. The application allows users to view, filter, and interact with a variety of products. Users can search for products, view their details, and check customer reviews.
 
+## This project is deployed on Vercell 
+- Link: https://web-final-l431eoi82-kutmans-projects-055f72d5.vercel.app/
+
 ## Features
 
 - Browse a list of products.
